@@ -22,3 +22,17 @@ Supports a wide variety of image operations and filters:
  - Mean Filter
  
  In addition, users have the ability to change the method for resizing of images through Nearest Neighbor or Bilinear interpolation.
+ 
+ 
+**Image Formats supported:**
+Currently only PPM. Test images are available in images folder.
+
+**Instructions:**
+To run, double click on the exe. 
+
+**Example Operations:**
+
+To accomplish operations such as Add/Subtract/Product of images:
+
+
+
