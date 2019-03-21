@@ -20,4 +20,5 @@ Supports a wide variety of image operations and filters:
  - Local Noise Reduction
  - Adaptive Median Noise
  - Mean Filter
-In addition, users have the ability to change the method for resizing of images through Nearest Neighbor or Bilinear interpolation.
+ 
+ In addition, users have the ability to change the method for resizing of images through Nearest Neighbor or Bilinear interpolation.
