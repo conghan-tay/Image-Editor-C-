@@ -35,7 +35,7 @@ To run, double click on the exe.
 To accomplish operations such as Add/Subtract/Product of images:
 
  1. Open an image. File>>Open
- ![] (doc/InstructionImages/ADD_SUB_PROD.PNG)
+ ![] (doc/InstructionImages/ADD_SUB_PROD.png)
  2. After opening the image choose an operation. Image >> Product
  3. Select another image. 
 
